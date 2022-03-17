@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LimaPe</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="deposit">"Deposit"</string>
+    <string name="withdraw">"Withdraw"</string>
+    <string name="loans">"Active Loans"</string>
+    <string name="wallet">"Lima Wallet"</string>
+    <string name="welcome_note">"Welcome to Lima Pesa"</string>
+    <string name="welcome_page">"Choose a category to login"</string>
+    <string name="create">"Create account"</string>
+    <string name="password_reset">"Forgot password?"</string>
+    <string name="prompt_account">"You don't have an account?"</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="dummy_text">Thanks for signing up we are happy to have you on board...</string>
+    <string name="dummy_terms">Terms and conditions apply</string>
+    <string name="get_started">Get Started</string>
+    <string name="signup">Sign Up with Your mobile number</string>
+    <string name="code">Enter Code</string>
+    <string name="sent_code">It has been sent to your Phone</string>
+
+
+
+
+</resources>

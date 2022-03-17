@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_verification.xml",
+        "source": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome_screen.xml",
+        "source": "C:\\Users\\Hamna Nuruh\\Desktop\\pearlpay\\lima\\app\\src\\main\\res\\layout\\activity_welcome_screen.xml"
+    }
+]

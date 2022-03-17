@@ -1,0 +1,52 @@
+com/example/limape/data/LoginDataSource.java
+ com.example.limape.data.LoginDataSource
+com/example/limape/MainActivity.java
+ com.example.limape.MainActivity
+com/example/limape/WelcomeActivity.java
+ com.example.limape.WelcomeActivity
+com/example/limape/databinding/ActivityVerificationBinding.java
+ com.example.limape.databinding.ActivityVerificationBinding
+com/example/limape/ui/login/LoginViewModelFactory.java
+ com.example.limape.ui.login.LoginViewModelFactory
+com/example/limape/BuildConfig.java
+ com.example.limape.BuildConfig
+com/example/limape/data/LoginRepository.java
+ com.example.limape.data.LoginRepository
+com/example/limape/databinding/ActivityMainBinding.java
+ com.example.limape.databinding.ActivityMainBinding
+com/example/limape/ui/login/WelcomeScreenActivity.java
+ com.example.limape.ui.login.WelcomeScreenActivity
+com/example/limape/data/model/LoggedInUser.java
+ com.example.limape.data.model.LoggedInUser
+com/example/limape/data/Result.java
+ com.example.limape.data.Result
+ com.example.limape.data.Result$1
+ com.example.limape.data.Result$Error
+ com.example.limape.data.Result$Success
+com/example/limape/ui/login/LoginActivity.java
+ com.example.limape.ui.login.LoginActivity
+ com.example.limape.ui.login.LoginActivity$1
+ com.example.limape.ui.login.LoginActivity$2
+ com.example.limape.ui.login.LoginActivity$3
+ com.example.limape.ui.login.LoginActivity$4
+ com.example.limape.ui.login.LoginActivity$5
+com/example/limape/databinding/ActivityLoginBinding.java
+ com.example.limape.databinding.ActivityLoginBinding
+com/example/limape/ui/login/LoginFormState.java
+ com.example.limape.ui.login.LoginFormState
+com/example/limape/ui/login/LoginResult.java
+ com.example.limape.ui.login.LoginResult
+com/example/limape/databinding/ActivityWelcomeBinding.java
+ com.example.limape.databinding.ActivityWelcomeBinding
+com/example/limape/databinding/ActivityRegistrationBinding.java
+ com.example.limape.databinding.ActivityRegistrationBinding
+com/example/limape/ui/login/LoggedInUserView.java
+ com.example.limape.ui.login.LoggedInUserView
+com/example/limape/ui/login/LoginViewModel.java
+ com.example.limape.ui.login.LoginViewModel
+com/example/limape/databinding/ActivityWelcomeScreenBinding.java
+ com.example.limape.databinding.ActivityWelcomeScreenBinding
+com/example/limape/Verification.java
+ com.example.limape.Verification
+com/example/limape/Registration.java
+ com.example.limape.Registration
